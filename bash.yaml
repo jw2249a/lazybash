@@ -1,0 +1,6 @@
+longargs:
+  --multi-args: multi_args
+  --multi-args-comment: multi_args_comment # example comment
+shortargs:
+  --help: display_help
+  -h: display_help
